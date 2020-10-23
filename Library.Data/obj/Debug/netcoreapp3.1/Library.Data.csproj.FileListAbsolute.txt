@@ -1,0 +1,12 @@
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.deps.json
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.dll
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.csprojAssemblyReference.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.AssemblyInfoInputs.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.AssemblyInfo.cs
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.runtimeconfig.json
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.runtimeconfig.dev.json
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.genruntimeconfig.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.pdb
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.csproj.CoreCompileInputs.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.dll
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.pdb
