@@ -2,6 +2,7 @@
 using Library.Data.Model;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 
 namespace Library.Logic
 {
@@ -18,6 +19,7 @@ namespace Library.Logic
 
         public void Create(Konyvtarak instance)
         {
+            instance.Id = GetHighestID() + 1;
             elements.Add(instance);
             repo.Create(instance);
         }
@@ -42,6 +44,11 @@ namespace Library.Logic
         public IEnumerable<string> GetIrsz()
         {
             return repo.Read().Select(x => x.Irsz).OrderBy(x => x).Distinct();
+        }
+
+        private int GetHighestID()
+        {
+            return repo.Read().Select(x => x.Id).Max();
         }
     }
 }

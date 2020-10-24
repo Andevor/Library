@@ -23,6 +23,7 @@ namespace Library.GUI
             {
                 logic.Create(editor.item);
             }
+            lbTest.Items.Refresh();
         }
 
         private void Update_item(object sender, RoutedEventArgs e)
@@ -32,6 +33,7 @@ namespace Library.GUI
             {
                 logic.Update(editor.item);
             }
+            lbTest.Items.Refresh();
         }
 
         private void Delete_item(object sender, RoutedEventArgs e)
