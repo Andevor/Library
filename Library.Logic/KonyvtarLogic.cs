@@ -1,6 +1,7 @@
 ﻿using Library.Data;
 using Library.Data.Model;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 
 namespace Library.Logic
@@ -8,7 +9,7 @@ namespace Library.Logic
     public class KonyvtarLogic
     {
         KonyvtarRepository repo;
-        List<Konyvtarak> elements;
+        public List<Konyvtarak> elements;
 
         public KonyvtarLogic()
         {

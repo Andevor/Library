@@ -11,5 +11,10 @@ namespace Library.Data.Model
         public string Cim { get; set; }
 
         public virtual Telepulesek IrszNavigation { get; set; }
+
+        public override string ToString()
+        {
+            return KonyvtarNev;
+        }
     }
 }

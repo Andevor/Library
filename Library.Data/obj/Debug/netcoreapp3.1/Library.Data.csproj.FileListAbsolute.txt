@@ -7,6 +7,6 @@ D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Libra
 D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.runtimeconfig.dev.json
 D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.genruntimeconfig.cache
 D:\Blathy\kesz_projectek\exam\Library\Library.Data\bin\Debug\netcoreapp3.1\Library.Data.pdb
-D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.csproj.CoreCompileInputs.cache
 D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.dll
 D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.pdb
+D:\Blathy\kesz_projectek\exam\Library\Library.Data\obj\Debug\netcoreapp3.1\Library.Data.csproj.CoreCompileInputs.cache

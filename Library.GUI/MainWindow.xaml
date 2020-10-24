@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library.GUI" 
+        xmlns:Logic="clr-namespace:Library.Logic;assembly=Library.Logic" x:Class="Library.GUI.MainWindow" 
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Canvas>
+        <ListBox x:Name="lbTest" BorderThickness="1" Width="500" Height="414" Canvas.Top="10"/>
+        <Button Content="New" Width="150" Height="50" Canvas.Left="505" Canvas.Top="10" Click="New_item"/>
+        <Button Content="Update" Width="150" Height="50" Canvas.Left="505" Canvas.Top="65" Click="Update_item"/>
+        <Button Content="Delete" Width="150" Height="50" Canvas.Left="505" Canvas.Top="120" Click="Delete_item"/>
+    </Canvas>
+</Window>

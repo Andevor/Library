@@ -1,4 +1,12 @@
 D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.csprojAssemblyReference.cache
 D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.AssemblyInfoInputs.cache
 D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.AssemblyInfo.cs
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\bin\Debug\netcoreapp3.1\Library.Logic.deps.json
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\bin\Debug\netcoreapp3.1\Library.Logic.dll
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\bin\Debug\netcoreapp3.1\Library.Logic.pdb
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\bin\Debug\netcoreapp3.1\Library.Data.dll
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\bin\Debug\netcoreapp3.1\Library.Data.pdb
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.csproj.CopyComplete
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.dll
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.pdb
 D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.csproj.CoreCompileInputs.cache

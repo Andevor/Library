@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6TAISWgWUDJlf01RVH9XpFu1z2jaFJAgvGVqR9en+xZnOd5Hljoktfi2RvtbgeptJJrJsMvzUWaoq5IzsDCaQA==",
+  "dgSpecHash": "ePyRakXm7cZYFMYqvT6PjHEyCgfhddcNC9Yf95uXqMkVokS41ZrhX6XzImZdIANbPC/I4fOEQYsYfvHwXtXa5Q==",
   "success": true,
   "projectFilePath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Logic.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.9\\microsoft.entityframeworkcore.3.1.9.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.9\\microsoft.entityframeworkcore.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.9\\microsoft.entityframeworkcore.analyzers.3.1.9.nupkg.sha512",
-    "C:\\Users\\cheva\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.8\\microsoft.entityframeworkcore.relational.3.1.8.nupkg.sha512",
+    "C:\\Users\\cheva\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.9\\microsoft.entityframeworkcore.relational.3.1.9.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.9\\microsoft.extensions.caching.memory.3.1.9.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
@@ -31,6 +31,7 @@
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\cheva\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\mysql.data\\8.0.22\\mysql.data.8.0.22.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\mysql.data.entityframeworkcore\\8.0.22\\mysql.data.entityframeworkcore.8.0.22.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\mysqlconnector\\0.69.9\\mysqlconnector.0.69.9.nupkg.sha512",
@@ -116,5 +117,16 @@
     "C:\\Users\\cheva\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MvvmLightLibs 5.4.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "MvvmLightLibs",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
