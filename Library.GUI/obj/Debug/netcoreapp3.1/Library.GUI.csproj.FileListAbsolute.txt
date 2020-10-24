@@ -60,3 +60,5 @@ D:\Blathy\kesz_projectek\exam\Library\Library.GUI\obj\Debug\netcoreapp3.1\Librar
 D:\Blathy\kesz_projectek\exam\Library\Library.GUI\obj\Debug\netcoreapp3.1\Library.GUI.dll
 D:\Blathy\kesz_projectek\exam\Library\Library.GUI\obj\Debug\netcoreapp3.1\Library.GUI.pdb
 D:\Blathy\kesz_projectek\exam\Library\Library.GUI\obj\Debug\netcoreapp3.1\Library.GUI.genruntimeconfig.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.GUI\obj\Debug\netcoreapp3.1\ItemEditor.g.cs
+D:\Blathy\kesz_projectek\exam\Library\Library.GUI\obj\Debug\netcoreapp3.1\ItemEditor.baml

@@ -39,5 +39,10 @@ namespace Library.Logic
             elements.Remove(instance);
             repo.Delete(instance);
         }
+
+        public IEnumerable<string> GetIrsz()
+        {
+            return repo.Read().Select(x => x.Irsz).OrderBy(x => x).Distinct();
+        }
     }
 }

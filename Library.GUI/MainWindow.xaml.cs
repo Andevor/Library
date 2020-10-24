@@ -31,12 +31,20 @@ namespace Library.GUI
 
         private void New_item(object sender, RoutedEventArgs e)
         {
-
+            ItemEditor editor = new ItemEditor();
+            if(editor.ShowDialog() == true)
+            {
+                logic.Create(editor.item);
+            }
         }
 
         private void Update_item(object sender, RoutedEventArgs e)
         {
-
+            ItemEditor editor = new ItemEditor(lbTest.SelectedItem as Konyvtarak);
+            if(editor.ShowDialog() == true)
+            {
+                logic.Update(editor.item);
+            }
         }
 
         private void Delete_item(object sender, RoutedEventArgs e)
