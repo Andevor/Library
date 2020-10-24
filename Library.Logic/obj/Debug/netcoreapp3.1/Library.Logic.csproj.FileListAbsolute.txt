@@ -1,0 +1,4 @@
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.csprojAssemblyReference.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.AssemblyInfoInputs.cache
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.AssemblyInfo.cs
+D:\Blathy\kesz_projectek\exam\Library\Library.Logic\obj\Debug\netcoreapp3.1\Library.Logic.csproj.CoreCompileInputs.cache
