@@ -28,12 +28,15 @@ namespace Library.GUI
 
         private void Update_item(object sender, RoutedEventArgs e)
         {
-            ItemEditor editor = new ItemEditor(lbTest.SelectedItem as Konyvtarak);
-            if(editor.ShowDialog() == true)
+            if (lbTest.SelectedItem != null)
             {
-                logic.Update(editor.item);
+                ItemEditor editor = new ItemEditor(lbTest.SelectedItem as Konyvtarak);       
+                if (editor.ShowDialog() == true)
+                {
+                    logic.Update(editor.item);
+                }
+                lbTest.Items.Refresh();
             }
-            lbTest.Items.Refresh();
         }
 
         private void Delete_item(object sender, RoutedEventArgs e)

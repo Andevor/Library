@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Library.GUI" 
         xmlns:Logic="clr-namespace:Library.Logic;assembly=Library.Logic" x:Class="Library.GUI.MainWindow" 
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="1000">
+        Title="MainWindow" Height="450" Width="665">
     <Canvas>
         <ListBox x:Name="lbTest" BorderThickness="1" Width="500" Height="414" Canvas.Top="10"/>
         <Button Content="New" Width="150" Height="50" Canvas.Left="505" Canvas.Top="10" Click="New_item"/>

@@ -9,7 +9,7 @@ namespace Library.Logic
     public class KonyvtarLogic
     {
         KonyvtarRepository repo;
-        public List<Konyvtarak> elements;
+        public List<Konyvtarak> elements { get; }
 
         public KonyvtarLogic()
         {
