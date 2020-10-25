@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ePyRakXm7cZYFMYqvT6PjHEyCgfhddcNC9Yf95uXqMkVokS41ZrhX6XzImZdIANbPC/I4fOEQYsYfvHwXtXa5Q==",
+  "dgSpecHash": "fqdYuUIYkMTIn5EgiOWVS5TwE0qOUMHFPXE+zRnTF025nzroiCYEz9ZfUXO7uUqZjzo6rh6M9EUtt+ARalqETA==",
   "success": true,
-  "projectFilePath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Logic.csproj",
+  "projectFilePath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheva\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

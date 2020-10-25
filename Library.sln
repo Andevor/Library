@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Data", "Library.Data\Library.Data.csproj", "{C8D9F3E8-196D-4C21-8CA4-B94F17F2DF50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Model", "Library.Data\Library.Model.csproj", "{C8D9F3E8-196D-4C21-8CA4-B94F17F2DF50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Logic", "Library.Logic\Library.Logic.csproj", "{F8E19674-8C4D-417F-8499-F3FB3E499824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Control", "Library.Logic\Library.Control.csproj", "{F8E19674-8C4D-417F-8499-F3FB3E499824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.GUI", "Library.GUI\Library.GUI.csproj", "{50D57D7D-9412-4338-9FDE-7C0625BCE99A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.GUI", "Library.GUI\Library.GUI.csproj", "{50D57D7D-9412-4338-9FDE-7C0625BCE99A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

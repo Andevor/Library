@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.GUI\\Library.GUI.csproj": {}
+    "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj": {}
   },
   "projects": {
     "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Model.csproj": {
@@ -74,71 +74,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.GUI\\Library.GUI.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.GUI\\Library.GUI.csproj",
-        "projectName": "Library.GUI",
-        "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.GUI\\Library.GUI.csproj",
-        "packagesPath": "C:\\Users\\cheva\\.nuget\\packages\\",
-        "outputPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.GUI\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\cheva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj": {
-                "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "MvvmLightLibs": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"

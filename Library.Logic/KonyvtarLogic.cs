@@ -2,7 +2,6 @@
 using Library.Data.Model;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
 
 namespace Library.Logic
 {

@@ -1796,7 +1796,21 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Library.Data/1.0.0": {
+      "Library.Control/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Library.Model": "1.0.0",
+          "MvvmLightLibs": "5.4.1.1"
+        },
+        "compile": {
+          "bin/placeholder/Library.Control.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.Control.dll": {}
+        }
+      },
+      "Library.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1806,24 +1820,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "3.2.3"
         },
         "compile": {
-          "bin/placeholder/Library.Data.dll": {}
+          "bin/placeholder/Library.Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Library.Data.dll": {}
-        }
-      },
-      "Library.Logic/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Library.Data": "1.0.0",
-          "MvvmLightLibs": "5.4.1.1"
-        },
-        "compile": {
-          "bin/placeholder/Library.Logic.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Library.Logic.dll": {}
+          "bin/placeholder/Library.Model.dll": {}
         }
       }
     }
@@ -6419,20 +6419,20 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Library.Data/1.0.0": {
+    "Library.Control/1.0.0": {
       "type": "project",
-      "path": "../Library.Data/Library.Data.csproj",
-      "msbuildProject": "../Library.Data/Library.Data.csproj"
+      "path": "../Library.Logic/Library.Control.csproj",
+      "msbuildProject": "../Library.Logic/Library.Control.csproj"
     },
-    "Library.Logic/1.0.0": {
+    "Library.Model/1.0.0": {
       "type": "project",
-      "path": "../Library.Logic/Library.Logic.csproj",
-      "msbuildProject": "../Library.Logic/Library.Logic.csproj"
+      "path": "../Library.Data/Library.Model.csproj",
+      "msbuildProject": "../Library.Data/Library.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Library.Logic >= 1.0.0",
+      "Library.Control >= 1.0.0",
       "MvvmLightLibs >= 5.4.1.1"
     ]
   },
@@ -6462,8 +6462,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Logic.csproj": {
-              "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Logic.csproj"
+            "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj": {
+              "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj"
             }
           }
         }

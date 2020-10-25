@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GtgJoIrtwKlIoaz7M4Tqlr6UleP7VtL97ctP3FNEYOT5ZQjnMWKYW7pWEUZBWzgzVSqDxb4EFs523gWiNixJdA==",
+  "dgSpecHash": "+/O2q7S0aggmcwccqolB6UwMccoXCFdrrHDAgPGRHWtOBtI/W1GwSSmt5AQi7ZST81ZsYKMU9TJuMVDxUS0kuw==",
   "success": true,
-  "projectFilePath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Data.csproj",
+  "projectFilePath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheva\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\cheva\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

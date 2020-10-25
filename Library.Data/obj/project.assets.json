@@ -6342,9 +6342,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Data.csproj",
-      "projectName": "Library.Data",
-      "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Data.csproj",
+      "projectUniqueName": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Model.csproj",
+      "projectName": "Library.Model",
+      "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Model.csproj",
       "packagesPath": "C:\\Users\\cheva\\.nuget\\packages\\",
       "outputPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\obj\\",
       "projectStyle": "PackageReference",

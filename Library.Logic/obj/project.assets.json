@@ -1796,7 +1796,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Library.Data/1.0.0": {
+      "Library.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1806,10 +1806,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "3.2.3"
         },
         "compile": {
-          "bin/placeholder/Library.Data.dll": {}
+          "bin/placeholder/Library.Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Library.Data.dll": {}
+          "bin/placeholder/Library.Model.dll": {}
         }
       }
     }
@@ -6405,15 +6405,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Library.Data/1.0.0": {
+    "Library.Model/1.0.0": {
       "type": "project",
-      "path": "../Library.Data/Library.Data.csproj",
-      "msbuildProject": "../Library.Data/Library.Data.csproj"
+      "path": "../Library.Data/Library.Model.csproj",
+      "msbuildProject": "../Library.Data/Library.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Library.Data >= 1.0.0",
+      "Library.Model >= 1.0.0",
       "MvvmLightLibs >= 5.4.1.1"
     ]
   },
@@ -6423,9 +6423,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Logic.csproj",
-      "projectName": "Library.Logic",
-      "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Logic.csproj",
+      "projectUniqueName": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj",
+      "projectName": "Library.Control",
+      "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\Library.Control.csproj",
       "packagesPath": "C:\\Users\\cheva\\.nuget\\packages\\",
       "outputPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Logic\\obj\\",
       "projectStyle": "PackageReference",
@@ -6443,8 +6443,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Data.csproj": {
-              "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Data.csproj"
+            "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Model.csproj": {
+              "projectPath": "D:\\Blathy\\kesz_projectek\\exam\\Library\\Library.Data\\Library.Model.csproj"
             }
           }
         }
