@@ -43,7 +43,7 @@ namespace Library.Logic
 
         public IEnumerable<string> GetIrsz()
         {
-            return repo.Read().Select(x => x.Irsz).OrderBy(x => x).Distinct();
+            return repo.Read().Select(x =>  x.Irsz).OrderBy(x => x).Distinct();
         }
 
         private int GetHighestID()

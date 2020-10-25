@@ -77,7 +77,7 @@ namespace Library.GUI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Library.GUI;component/itemeditor.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Library.GUI;V1.0.0.0;component/itemeditor.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ItemEditor.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
